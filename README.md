@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 1
+Total de questoes resolvidas: 2
 
 ### Easy
 
@@ -17,4 +17,7 @@ Total de questoes resolvidas: 1
 
 ### Hard
 
-- Nenhuma questao registrada ainda.
+- [#37 Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
+  - Question ID: 37
+  - Arquivo: `problems/hard/37_sudoku-solver.py`
+  - Resolvido em: 21:00 - 08/06/26
