@@ -2,13 +2,18 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 3
+Total de questoes resolvidas: 4
 
 ### Easy
 
 - Nenhuma questao registrada ainda.
 
 ### Medium
+
+- [#365 Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/)
+  - Question ID: 365
+  - Arquivo: `problems/medium/365_water-and-jug-problem.py`
+  - Resolvido em: 13:30 - 09/06/26
 
 - [#107 Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
   - Question ID: 107
