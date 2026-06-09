@@ -2,13 +2,18 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 4
+Total de questoes resolvidas: 5
 
 ### Easy
 
 - Nenhuma questao registrada ainda.
 
 ### Medium
+
+- [#79 Word Search](https://leetcode.com/problems/word-search/)
+  - Question ID: 79
+  - Arquivo: `problems/medium/79_word-search.py`
+  - Resolvido em: 19:01 - 09/06/26
 
 - [#365 Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/)
   - Question ID: 365
