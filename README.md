@@ -2,13 +2,18 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 5
+Total de questoes resolvidas: 6
 
 ### Easy
 
 - Nenhuma questao registrada ainda.
 
 ### Medium
+
+- [#337 House Robber III](https://leetcode.com/problems/house-robber-iii/)
+  - Question ID: 337
+  - Arquivo: `problems/medium/337_house-robber-iii.py`
+  - Resolvido em: 22:02 - 09/06/26
 
 - [#79 Word Search](https://leetcode.com/problems/word-search/)
   - Question ID: 79
