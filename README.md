@@ -2,13 +2,18 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 2
+Total de questoes resolvidas: 3
 
 ### Easy
 
 - Nenhuma questao registrada ainda.
 
 ### Medium
+
+- [#107 Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
+  - Question ID: 107
+  - Arquivo: `problems/medium/107_binary-tree-level-order-traversal-ii.py`
+  - Resolvido em: 13:00 - 09/06/26
 
 - [#210 Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
   - Question ID: 210
