@@ -2,11 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 6
+Total de questoes resolvidas: 7
 
 ### Easy
 
-- Nenhuma questao registrada ainda.
+- [#257 Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)
+  - Question ID: 257
+  - Arquivo: `problems/easy/257_binary-tree-paths.py`
+  - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
 
