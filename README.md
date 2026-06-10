@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 7
+Total de questoes resolvidas: 8
 
 ### Easy
+
+- [#383 Ransom Note](https://leetcode.com/problems/ransom-note/)
+  - Question ID: 383
+  - Arquivo: `problems/easy/383_ransom-note.py`
+  - Resolvido em: 15:00 - 10/06/26
 
 - [#257 Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)
   - Question ID: 257
