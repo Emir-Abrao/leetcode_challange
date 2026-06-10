@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 8
+Total de questoes resolvidas: 9
 
 ### Easy
 
@@ -17,6 +17,11 @@ Total de questoes resolvidas: 8
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#211 Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
+  - Question ID: 211
+  - Arquivo: `problems/medium/211_design-add-and-search-words-data-structure.py`
+  - Resolvido em: 17:04 - 10/06/26
 
 - [#337 House Robber III](https://leetcode.com/problems/house-robber-iii/)
   - Question ID: 337
