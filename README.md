@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 11
+Total de questoes resolvidas: 12
 
 ### Easy
+
+- [#441 Arranging Coins](https://leetcode.com/problems/arranging-coins/)
+  - Question ID: 441
+  - Arquivo: `problems/easy/441_arranging-coins.py`
+  - Resolvido em: 12:40 - 11/06/26
 
 - [#392 Is Subsequence](https://leetcode.com/problems/is-subsequence/)
   - Question ID: 392
