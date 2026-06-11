@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 13
+Total de questoes resolvidas: 14
 
 ### Easy
+
+- [#268 Missing Number](https://leetcode.com/problems/missing-number/)
+  - Question ID: 268
+  - Arquivo: `problems/easy/268_missing-number.py`
+  - Resolvido em: 22:33 - 11/06/26
 
 - [#441 Arranging Coins](https://leetcode.com/problems/arranging-coins/)
   - Question ID: 441
