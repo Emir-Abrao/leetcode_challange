@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 12
+Total de questoes resolvidas: 13
 
 ### Easy
 
@@ -59,6 +59,11 @@ Total de questoes resolvidas: 12
   - Resolvido em: 17:22 - 08/06/26
 
 ### Hard
+
+- [#239 Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
+  - Question ID: 239
+  - Arquivo: `problems/hard/239_sliding-window-maximum.py`
+  - Resolvido em: 21:03 - 11/06/26
 
 - [#214 Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)
   - Question ID: 214
