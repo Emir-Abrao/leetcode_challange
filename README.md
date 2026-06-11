@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 10
+Total de questoes resolvidas: 11
 
 ### Easy
 
@@ -54,6 +54,11 @@ Total de questoes resolvidas: 10
   - Resolvido em: 17:22 - 08/06/26
 
 ### Hard
+
+- [#214 Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)
+  - Question ID: 214
+  - Arquivo: `problems/hard/214_shortest-palindrome.py`
+  - Resolvido em: 12:08 - 11/06/26
 
 - [#37 Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
   - Question ID: 37
