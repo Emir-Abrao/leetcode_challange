@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 14
+Total de questoes resolvidas: 15
 
 ### Easy
 
@@ -32,6 +32,11 @@ Total de questoes resolvidas: 14
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#473 Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)
+  - Question ID: 473
+  - Arquivo: `problems/medium/473_matchsticks-to-square.py`
+  - Resolvido em: 13:01 - 12/06/26
 
 - [#211 Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
   - Question ID: 211
