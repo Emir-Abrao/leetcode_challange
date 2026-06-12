@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 16
+Total de questoes resolvidas: 17
 
 ### Easy
+
+- [#205 Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
+  - Question ID: 205
+  - Arquivo: `problems/easy/205_isomorphic-strings.py`
+  - Resolvido em: 18:00 - 12/06/26
 
 - [#268 Missing Number](https://leetcode.com/problems/missing-number/)
   - Question ID: 268
