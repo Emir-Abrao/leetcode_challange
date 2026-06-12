@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 15
+Total de questoes resolvidas: 16
 
 ### Easy
 
@@ -32,6 +32,11 @@ Total de questoes resolvidas: 15
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#772 Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/)
+  - Question ID: 772
+  - Arquivo: `problems/medium/427_construct-quad-tree.py`
+  - Resolvido em: 14:00 - 12/06/26
 
 - [#473 Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)
   - Question ID: 473
