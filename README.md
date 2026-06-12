@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 17
+Total de questoes resolvidas: 18
 
 ### Easy
+
+- [#232 Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
+  - Question ID: 232
+  - Arquivo: `problems/easy/232_implement-queue-using-stacks.py`
+  - Resolvido em: 18:33 - 12/06/26
 
 - [#205 Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
   - Question ID: 205
