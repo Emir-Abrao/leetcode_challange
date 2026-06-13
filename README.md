@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 18
+Total de questoes resolvidas: 19
 
 ### Easy
 
@@ -42,6 +42,11 @@ Total de questoes resolvidas: 18
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#289 Game of Life](https://leetcode.com/problems/game-of-life/)
+  - Question ID: 289
+  - Arquivo: `problems/medium/289_game-of-life.py`
+  - Resolvido em: 16:10 - 13/06/26
 
 - [#772 Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/)
   - Question ID: 772
