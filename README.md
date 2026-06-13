@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 21
+Total de questoes resolvidas: 22
 
 ### Easy
 
@@ -42,6 +42,11 @@ Total de questoes resolvidas: 21
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#62 Unique Paths](https://leetcode.com/problems/unique-paths/)
+  - Question ID: 62
+  - Arquivo: `problems/medium/62_unique-paths.py`
+  - Resolvido em: 19:01 - 13/06/26
 
 - [#153 Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
   - Question ID: 153
