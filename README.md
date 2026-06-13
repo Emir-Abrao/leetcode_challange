@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 20
+Total de questoes resolvidas: 21
 
 ### Easy
 
@@ -42,6 +42,11 @@ Total de questoes resolvidas: 20
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#153 Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+  - Question ID: 153
+  - Arquivo: `problems/medium/153_find-minimum-in-rotated-sorted-array.py`
+  - Resolvido em: 18:01 - 13/06/26
 
 - [#105 Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
   - Question ID: 105
