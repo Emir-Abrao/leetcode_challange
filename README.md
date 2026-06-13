@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 19
+Total de questoes resolvidas: 20
 
 ### Easy
 
@@ -42,6 +42,11 @@ Total de questoes resolvidas: 19
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#105 Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+  - Question ID: 105
+  - Arquivo: `problems/medium/105_construct-binary-tree-from-preorder-and-inorder-traversal.py`
+  - Resolvido em: 16:32 - 13/06/26
 
 - [#289 Game of Life](https://leetcode.com/problems/game-of-life/)
   - Question ID: 289
