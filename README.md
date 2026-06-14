@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 23
+Total de questoes resolvidas: 24
 
 ### Easy
 
@@ -42,6 +42,11 @@ Total de questoes resolvidas: 23
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#396 Rotate Function](https://leetcode.com/problems/rotate-function/)
+  - Question ID: 396
+  - Arquivo: `problems/medium/396_rotate-function.py`
+  - Resolvido em: 16:01 - 14/06/26
 
 - [#62 Unique Paths](https://leetcode.com/problems/unique-paths/)
   - Question ID: 62
