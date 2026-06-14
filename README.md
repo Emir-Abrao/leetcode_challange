@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 22
+Total de questoes resolvidas: 23
 
 ### Easy
 
@@ -104,6 +104,11 @@ Total de questoes resolvidas: 22
   - Resolvido em: 17:22 - 08/06/26
 
 ### Hard
+
+- [#282 Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)
+  - Question ID: 282
+  - Arquivo: `problems/hard/282_expression-add-operators.py`
+  - Resolvido em: 12:21 - 14/06/26
 
 - [#239 Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
   - Question ID: 239
