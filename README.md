@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 24
+Total de questoes resolvidas: 25
 
 ### Easy
 
@@ -42,6 +42,11 @@ Total de questoes resolvidas: 24
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#393 UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/)
+  - Question ID: 393
+  - Arquivo: `problems/medium/393_utf-8-validation.py`
+  - Resolvido em: 18:02 - 14/06/26
 
 - [#396 Rotate Function](https://leetcode.com/problems/rotate-function/)
   - Question ID: 396
