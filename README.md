@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 27
+Total de questoes resolvidas: 28
 
 ### Easy
+
+- [#14 Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+  - Question ID: 14
+  - Arquivo: `problems/easy/14_longest-common-prefix.py`
+  - Resolvido em: 19:03 - 16/06/26
 
 - [#232 Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
   - Question ID: 232
