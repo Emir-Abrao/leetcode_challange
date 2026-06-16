@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 28
+Total de questoes resolvidas: 29
 
 ### Easy
+
+- [#13 Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
+  - Question ID: 13
+  - Arquivo: `problems/easy/13_roman-to-integer.py`
+  - Resolvido em: 22:01 - 16/06/26
 
 - [#14 Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
   - Question ID: 14
