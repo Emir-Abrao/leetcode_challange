@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 25
+Total de questoes resolvidas: 26
 
 ### Easy
 
@@ -42,6 +42,11 @@ Total de questoes resolvidas: 25
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#152 Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
+  - Question ID: 152
+  - Arquivo: `problems/medium/152_maximum-product-subarray.py`
+  - Resolvido em: 13:03 - 16/06/26
 
 - [#393 UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/)
   - Question ID: 393
