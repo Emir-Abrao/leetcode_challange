@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 26
+Total de questoes resolvidas: 27
 
 ### Easy
 
@@ -42,6 +42,11 @@ Total de questoes resolvidas: 26
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#474 Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)
+  - Question ID: 474
+  - Arquivo: `problems/medium/474_ones-and-zeroes.py`
+  - Resolvido em: 13:38 - 16/06/26
 
 - [#152 Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
   - Question ID: 152
