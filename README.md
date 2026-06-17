@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 32
+Total de questoes resolvidas: 33
 
 ### Easy
 
@@ -52,6 +52,11 @@ Total de questoes resolvidas: 32
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#279 Perfect Squares](https://leetcode.com/problems/perfect-squares/)
+  - Question ID: 279
+  - Arquivo: `problems/medium/279_perfect-squares.py`
+  - Resolvido em: 22:01 - 17/06/26
 
 - [#103 Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
   - Question ID: 103
