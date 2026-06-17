@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 29
+Total de questoes resolvidas: 30
 
 ### Easy
 
@@ -134,6 +134,11 @@ Total de questoes resolvidas: 29
   - Resolvido em: 17:22 - 08/06/26
 
 ### Hard
+
+- [#312 Burst Balloons](https://leetcode.com/problems/burst-balloons/)
+  - Question ID: 312
+  - Arquivo: `problems/hard/312_burst-balloons.py`
+  - Resolvido em: 11:04 - 17/06/26
 
 - [#282 Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)
   - Question ID: 282
