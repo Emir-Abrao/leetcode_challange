@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 31
+Total de questoes resolvidas: 32
 
 ### Easy
 
@@ -52,6 +52,11 @@ Total de questoes resolvidas: 31
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#103 Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+  - Question ID: 103
+  - Arquivo: `problems/medium/103_binary-tree-zigzag-level-order-traversal.py`
+  - Resolvido em: 17:00 - 17/06/26
 
 - [#435 Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
   - Question ID: 435
