@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 35
+Total de questoes resolvidas: 36
 
 ### Easy
+
+- [#21 Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+  - Question ID: 21
+  - Arquivo: `problems/easy/21_merge-two-sorted-lists.py`
+  - Resolvido em: 21:00 - 18/06/26
 
 - [#110 Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
   - Question ID: 110
