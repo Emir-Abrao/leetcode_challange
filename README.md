@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 36
+Total de questoes resolvidas: 37
 
 ### Easy
 
@@ -67,6 +67,11 @@ Total de questoes resolvidas: 36
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#915 Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/)
+  - Question ID: 915
+  - Arquivo: `problems/medium/478_generate-random-point-in-a-circle.py`
+  - Resolvido em: 22:38 - 18/06/26
 
 - [#279 Perfect Squares](https://leetcode.com/problems/perfect-squares/)
   - Question ID: 279
