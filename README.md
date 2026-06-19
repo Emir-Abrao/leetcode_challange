@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 39
+Total de questoes resolvidas: 40
 
 ### Easy
+
+- [#342 Power of Four](https://leetcode.com/problems/power-of-four/)
+  - Question ID: 342
+  - Arquivo: `problems/easy/342_power-of-four.py`
+  - Resolvido em: 18:01 - 19/06/26
 
 - [#26 Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
   - Question ID: 26
