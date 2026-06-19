@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 37
+Total de questoes resolvidas: 38
 
 ### Easy
 
@@ -67,6 +67,11 @@ Total de questoes resolvidas: 37
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#96 Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)
+  - Question ID: 96
+  - Arquivo: `problems/medium/96_unique-binary-search-trees.py`
+  - Resolvido em: 13:04 - 19/06/26
 
 - [#915 Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/)
   - Question ID: 915
