@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 40
+Total de questoes resolvidas: 41
 
 ### Easy
 
@@ -77,6 +77,11 @@ Total de questoes resolvidas: 40
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#73 Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
+  - Question ID: 73
+  - Arquivo: `problems/medium/73_set-matrix-zeroes.py`
+  - Resolvido em: 18:34 - 19/06/26
 
 - [#96 Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)
   - Question ID: 96
