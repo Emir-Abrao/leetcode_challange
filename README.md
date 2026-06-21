@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 41
+Total de questoes resolvidas: 42
 
 ### Easy
+
+- [#1 Two Sum](https://leetcode.com/problems/two-sum/)
+  - Question ID: 1
+  - Arquivo: `problems/easy/1_two-sum.py`
+  - Resolvido em: 16:00 - 21/06/26
 
 - [#342 Power of Four](https://leetcode.com/problems/power-of-four/)
   - Question ID: 342
