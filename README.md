@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 44
+Total de questoes resolvidas: 45
 
 ### Easy
 
@@ -204,6 +204,11 @@ Total de questoes resolvidas: 44
   - Resolvido em: 17:22 - 08/06/26
 
 ### Hard
+
+- [#44 Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)
+  - Question ID: 44
+  - Arquivo: `problems/hard/44_wildcard-matching.py`
+  - Resolvido em: 17:00 - 24/06/26
 
 - [#312 Burst Balloons](https://leetcode.com/problems/burst-balloons/)
   - Question ID: 312
