@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 42
+Total de questoes resolvidas: 43
 
 ### Easy
 
@@ -82,6 +82,11 @@ Total de questoes resolvidas: 42
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#377 Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
+  - Question ID: 377
+  - Arquivo: `problems/medium/377_combination-sum-iv.py`
+  - Resolvido em: 11:01 - 24/06/26
 
 - [#73 Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
   - Question ID: 73
