@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 48
+Total de questoes resolvidas: 49
 
 ### Easy
 
@@ -87,6 +87,11 @@ Total de questoes resolvidas: 48
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#341 Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
+  - Question ID: 341
+  - Arquivo: `problems/medium/341_flatten-nested-list-iterator.py`
+  - Resolvido em: 21:03 - 25/06/26
 
 - [#75 Sort Colors](https://leetcode.com/problems/sort-colors/)
   - Question ID: 75
