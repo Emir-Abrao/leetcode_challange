@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 47
+Total de questoes resolvidas: 48
 
 ### Easy
+
+- [#326 Power of Three](https://leetcode.com/problems/power-of-three/)
+  - Question ID: 326
+  - Arquivo: `problems/easy/326_power-of-three.py`
+  - Resolvido em: 12:31 - 25/06/26
 
 - [#1 Two Sum](https://leetcode.com/problems/two-sum/)
   - Question ID: 1
