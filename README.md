@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 49
+Total de questoes resolvidas: 50
 
 ### Easy
 
@@ -87,6 +87,11 @@ Total de questoes resolvidas: 49
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#64 Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
+  - Question ID: 64
+  - Arquivo: `problems/medium/64_minimum-path-sum.py`
+  - Resolvido em: 22:30 - 25/06/26
 
 - [#341 Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
   - Question ID: 341
