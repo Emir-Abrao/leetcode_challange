@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 46
+Total de questoes resolvidas: 47
 
 ### Easy
 
@@ -82,6 +82,11 @@ Total de questoes resolvidas: 46
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#75 Sort Colors](https://leetcode.com/problems/sort-colors/)
+  - Question ID: 75
+  - Arquivo: `problems/medium/75_sort-colors.py`
+  - Resolvido em: 12:00 - 25/06/26
 
 - [#106 Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
   - Question ID: 106
