@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 52
+Total de questoes resolvidas: 53
 
 ### Easy
 
@@ -87,6 +87,11 @@ Total de questoes resolvidas: 52
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#179 Largest Number](https://leetcode.com/problems/largest-number/)
+  - Question ID: 179
+  - Arquivo: `problems/medium/179_largest-number.py`
+  - Resolvido em: 18:00 - 26/06/26
 
 - [#151 Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
   - Question ID: 151
