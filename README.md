@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 51
+Total de questoes resolvidas: 52
 
 ### Easy
 
@@ -234,6 +234,11 @@ Total de questoes resolvidas: 51
   - Resolvido em: 17:22 - 08/06/26
 
 ### Hard
+
+- [#25 Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+  - Question ID: 25
+  - Arquivo: `problems/hard/25_reverse-nodes-in-k-group.py`
+  - Resolvido em: 14:00 - 26/06/26
 
 - [#44 Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)
   - Question ID: 44
