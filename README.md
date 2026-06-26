@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 50
+Total de questoes resolvidas: 51
 
 ### Easy
 
@@ -87,6 +87,11 @@ Total de questoes resolvidas: 50
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#151 Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
+  - Question ID: 151
+  - Arquivo: `problems/medium/151_reverse-words-in-a-string.py`
+  - Resolvido em: 13:01 - 26/06/26
 
 - [#64 Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
   - Question ID: 64
