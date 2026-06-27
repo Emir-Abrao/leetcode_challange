@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 54
+Total de questoes resolvidas: 55
 
 ### Easy
 
@@ -244,6 +244,11 @@ Total de questoes resolvidas: 54
   - Resolvido em: 17:22 - 08/06/26
 
 ### Hard
+
+- [#174 Dungeon Game](https://leetcode.com/problems/dungeon-game/)
+  - Question ID: 174
+  - Arquivo: `problems/hard/174_dungeon-game.py`
+  - Resolvido em: 16:10 - 27/06/26
 
 - [#25 Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
   - Question ID: 25
