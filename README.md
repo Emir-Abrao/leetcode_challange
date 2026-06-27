@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 55
+Total de questoes resolvidas: 56
 
 ### Easy
 
@@ -87,6 +87,11 @@ Total de questoes resolvidas: 55
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#477 Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/)
+  - Question ID: 477
+  - Arquivo: `problems/medium/477_total-hamming-distance.py`
+  - Resolvido em: 16:35 - 27/06/26
 
 - [#241 Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)
   - Question ID: 241
