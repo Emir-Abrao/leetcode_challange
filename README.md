@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 56
+Total de questoes resolvidas: 57
 
 ### Easy
 
@@ -87,6 +87,11 @@ Total de questoes resolvidas: 56
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#355 Design Twitter](https://leetcode.com/problems/design-twitter/)
+  - Question ID: 355
+  - Arquivo: `problems/medium/355_design-twitter.py`
+  - Resolvido em: 18:01 - 27/06/26
 
 - [#477 Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/)
   - Question ID: 477
