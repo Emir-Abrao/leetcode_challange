@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 59
+Total de questoes resolvidas: 60
 
 ### Easy
 
@@ -87,6 +87,11 @@ Total de questoes resolvidas: 59
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#147 Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
+  - Question ID: 147
+  - Arquivo: `problems/medium/147_insertion-sort-list.py`
+  - Resolvido em: 16:04 - 28/06/26
 
 - [#102 Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
   - Question ID: 102
