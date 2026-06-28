@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 58
+Total de questoes resolvidas: 59
 
 ### Easy
 
@@ -87,6 +87,11 @@ Total de questoes resolvidas: 58
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#102 Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+  - Question ID: 102
+  - Arquivo: `problems/medium/102_binary-tree-level-order-traversal.py`
+  - Resolvido em: 12:20 - 28/06/26
 
 - [#142 Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
   - Question ID: 142
