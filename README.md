@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 60
+Total de questoes resolvidas: 61
 
 ### Easy
 
@@ -87,6 +87,11 @@ Total de questoes resolvidas: 60
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#230 Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+  - Question ID: 230
+  - Arquivo: `problems/medium/230_kth-smallest-element-in-a-bst.py`
+  - Resolvido em: 18:01 - 28/06/26
 
 - [#147 Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
   - Question ID: 147
