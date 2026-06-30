@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 62
+Total de questoes resolvidas: 63
 
 ### Easy
+
+- [#9 Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+  - Question ID: 9
+  - Arquivo: `problems/easy/9_palindrome-number.py`
+  - Resolvido em: 13:30 - 30/06/26
 
 - [#326 Power of Three](https://leetcode.com/problems/power-of-three/)
   - Question ID: 326
