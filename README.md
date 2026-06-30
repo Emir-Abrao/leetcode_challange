@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 64
+Total de questoes resolvidas: 65
 
 ### Easy
 
@@ -92,6 +92,11 @@ Total de questoes resolvidas: 64
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#24 Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
+  - Question ID: 24
+  - Arquivo: `problems/medium/24_swap-nodes-in-pairs.py`
+  - Resolvido em: 22:01 - 30/06/26
 
 - [#903 Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/)
   - Question ID: 903
