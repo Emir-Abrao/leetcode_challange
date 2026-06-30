@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 61
+Total de questoes resolvidas: 62
 
 ### Easy
 
@@ -87,6 +87,11 @@ Total de questoes resolvidas: 61
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#903 Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/)
+  - Question ID: 903
+  - Arquivo: `problems/medium/470_implement-rand10-using-rand7.py`
+  - Resolvido em: 13:08 - 30/06/26
 
 - [#230 Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
   - Question ID: 230
