@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 63
+Total de questoes resolvidas: 64
 
 ### Easy
 
@@ -284,6 +284,11 @@ Total de questoes resolvidas: 63
   - Resolvido em: 17:22 - 08/06/26
 
 ### Hard
+
+- [#60 Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)
+  - Question ID: 60
+  - Arquivo: `problems/hard/60_permutation-sequence.py`
+  - Resolvido em: 19:00 - 30/06/26
 
 - [#174 Dungeon Game](https://leetcode.com/problems/dungeon-game/)
   - Question ID: 174
