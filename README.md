@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 65
+Total de questoes resolvidas: 66
 
 ### Easy
 
@@ -92,6 +92,11 @@ Total de questoes resolvidas: 65
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#331 Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)
+  - Question ID: 331
+  - Arquivo: `problems/medium/331_verify-preorder-serialization-of-a-binary-tree.py`
+  - Resolvido em: 11:03 - 01/07/26
 
 - [#24 Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
   - Question ID: 24
