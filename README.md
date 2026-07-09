@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 67
+Total de questoes resolvidas: 68
 
 ### Easy
 
@@ -92,6 +92,11 @@ Total de questoes resolvidas: 67
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#357 Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)
+  - Question ID: 357
+  - Arquivo: `problems/medium/357_count-numbers-with-unique-digits.py`
+  - Resolvido em: 22:33 - 09/07/26
 
 - [#19 Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
   - Question ID: 19
