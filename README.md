@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 68
+Total de questoes resolvidas: 69
 
 ### Easy
 
@@ -92,6 +92,11 @@ Total de questoes resolvidas: 68
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#166 Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)
+  - Question ID: 166
+  - Arquivo: `problems/medium/166_fraction-to-recurring-decimal.py`
+  - Resolvido em: 13:04 - 10/07/26
 
 - [#357 Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)
   - Question ID: 357
