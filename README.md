@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 69
+Total de questoes resolvidas: 70
 
 ### Easy
 
@@ -92,6 +92,11 @@ Total de questoes resolvidas: 69
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#385 Mini Parser](https://leetcode.com/problems/mini-parser/)
+  - Question ID: 385
+  - Arquivo: `problems/medium/385_mini-parser.py`
+  - Resolvido em: 14:00 - 10/07/26
 
 - [#166 Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)
   - Question ID: 166
