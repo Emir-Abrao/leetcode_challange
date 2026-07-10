@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 70
+Total de questoes resolvidas: 71
 
 ### Easy
+
+- [#283 Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+  - Question ID: 283
+  - Arquivo: `problems/easy/283_move-zeroes.py`
+  - Resolvido em: 18:03 - 10/07/26
 
 - [#9 Palindrome Number](https://leetcode.com/problems/palindrome-number/)
   - Question ID: 9
