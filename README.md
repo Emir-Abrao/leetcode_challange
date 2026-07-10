@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 71
+Total de questoes resolvidas: 72
 
 ### Easy
 
@@ -97,6 +97,11 @@ Total de questoes resolvidas: 71
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#371 Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
+  - Question ID: 371
+  - Arquivo: `problems/medium/371_sum-of-two-integers.py`
+  - Resolvido em: 18:30 - 10/07/26
 
 - [#385 Mini Parser](https://leetcode.com/problems/mini-parser/)
   - Question ID: 385
