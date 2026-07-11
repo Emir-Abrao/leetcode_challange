@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 75
+Total de questoes resolvidas: 76
 
 ### Easy
 
@@ -97,6 +97,11 @@ Total de questoes resolvidas: 75
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#400 Nth Digit](https://leetcode.com/problems/nth-digit/)
+  - Question ID: 400
+  - Arquivo: `problems/medium/400_nth-digit.py`
+  - Resolvido em: 19:01 - 11/07/26
 
 - [#12 Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
   - Question ID: 12
