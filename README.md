@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 74
+Total de questoes resolvidas: 75
 
 ### Easy
 
@@ -97,6 +97,11 @@ Total de questoes resolvidas: 74
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#12 Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
+  - Question ID: 12
+  - Arquivo: `problems/medium/12_integer-to-roman.py`
+  - Resolvido em: 18:00 - 11/07/26
 
 - [#319 Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)
   - Question ID: 319
