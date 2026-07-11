@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 72
+Total de questoes resolvidas: 73
 
 ### Easy
 
@@ -97,6 +97,11 @@ Total de questoes resolvidas: 72
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#227 Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)
+  - Question ID: 227
+  - Arquivo: `problems/medium/227_basic-calculator-ii.py`
+  - Resolvido em: 16:10 - 11/07/26
 
 - [#371 Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
   - Question ID: 371
