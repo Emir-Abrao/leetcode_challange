@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 77
+Total de questoes resolvidas: 78
 
 ### Easy
 
@@ -349,6 +349,11 @@ Total de questoes resolvidas: 77
   - Resolvido em: 17:22 - 08/06/26
 
 ### Hard
+
+- [#403 Frog Jump](https://leetcode.com/problems/frog-jump/)
+  - Question ID: 403
+  - Arquivo: `problems/hard/403_frog-jump.py`
+  - Resolvido em: 16:01 - 12/07/26
 
 - [#60 Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)
   - Question ID: 60
