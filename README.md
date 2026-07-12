@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 78
+Total de questoes resolvidas: 79
 
 ### Easy
+
+- [#202 Happy Number](https://leetcode.com/problems/happy-number/)
+  - Question ID: 202
+  - Arquivo: `problems/easy/202_happy-number.py`
+  - Resolvido em: 18:01 - 12/07/26
 
 - [#283 Move Zeroes](https://leetcode.com/problems/move-zeroes/)
   - Question ID: 283
