@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 76
+Total de questoes resolvidas: 77
 
 ### Easy
 
@@ -97,6 +97,11 @@ Total de questoes resolvidas: 76
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#155 Min Stack](https://leetcode.com/problems/min-stack/)
+  - Question ID: 155
+  - Arquivo: `problems/medium/155_min-stack.py`
+  - Resolvido em: 12:20 - 12/07/26
 
 - [#400 Nth Digit](https://leetcode.com/problems/nth-digit/)
   - Question ID: 400
