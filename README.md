@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 82
+Total de questoes resolvidas: 83
 
 ### Easy
 
@@ -107,6 +107,11 @@ Total de questoes resolvidas: 82
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#238 Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+  - Question ID: 238
+  - Arquivo: `problems/medium/238_product-of-array-except-self.py`
+  - Resolvido em: 22:01 - 14/07/26
 
 - [#71 Simplify Path](https://leetcode.com/problems/simplify-path/)
   - Question ID: 71
