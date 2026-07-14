@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 81
+Total de questoes resolvidas: 82
 
 ### Easy
 
@@ -107,6 +107,11 @@ Total de questoes resolvidas: 81
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#71 Simplify Path](https://leetcode.com/problems/simplify-path/)
+  - Question ID: 71
+  - Arquivo: `problems/medium/71_simplify-path.py`
+  - Resolvido em: 19:00 - 14/07/26
 
 - [#453 Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)
   - Question ID: 453
