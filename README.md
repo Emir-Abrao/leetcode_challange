@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 80
+Total de questoes resolvidas: 81
 
 ### Easy
 
@@ -107,6 +107,11 @@ Total de questoes resolvidas: 80
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#453 Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)
+  - Question ID: 453
+  - Arquivo: `problems/medium/453_minimum-moves-to-equal-array-elements.py`
+  - Resolvido em: 13:32 - 14/07/26
 
 - [#155 Min Stack](https://leetcode.com/problems/min-stack/)
   - Question ID: 155
