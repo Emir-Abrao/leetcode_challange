@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 86
+Total de questoes resolvidas: 87
 
 ### Easy
 
@@ -112,6 +112,11 @@ Total de questoes resolvidas: 86
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#130 Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)
+  - Question ID: 130
+  - Arquivo: `problems/medium/130_surrounded-regions.py`
+  - Resolvido em: 22:01 - 15/07/26
 
 - [#22 Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
   - Question ID: 22
