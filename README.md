@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 84
+Total de questoes resolvidas: 85
 
 ### Easy
+
+- [#168 Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
+  - Question ID: 168
+  - Arquivo: `problems/easy/168_excel-sheet-column-title.py`
+  - Resolvido em: 15:00 - 15/07/26
 
 - [#344 Reverse String](https://leetcode.com/problems/reverse-string/)
   - Question ID: 344
