@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 85
+Total de questoes resolvidas: 86
 
 ### Easy
 
@@ -112,6 +112,11 @@ Total de questoes resolvidas: 85
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#22 Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+  - Question ID: 22
+  - Arquivo: `problems/medium/22_generate-parentheses.py`
+  - Resolvido em: 17:00 - 15/07/26
 
 - [#38 Count and Say](https://leetcode.com/problems/count-and-say/)
   - Question ID: 38
