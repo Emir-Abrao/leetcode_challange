@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 83
+Total de questoes resolvidas: 84
 
 ### Easy
 
@@ -107,6 +107,11 @@ Total de questoes resolvidas: 83
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#38 Count and Say](https://leetcode.com/problems/count-and-say/)
+  - Question ID: 38
+  - Arquivo: `problems/medium/38_count-and-say.py`
+  - Resolvido em: 11:03 - 15/07/26
 
 - [#238 Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
   - Question ID: 238
