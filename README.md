@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 89
+Total de questoes resolvidas: 90
 
 ### Easy
+
+- [#349 Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
+  - Question ID: 349
+  - Arquivo: `problems/easy/349_intersection-of-two-arrays.py`
+  - Resolvido em: 22:30 - 16/07/26
 
 - [#168 Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
   - Question ID: 168
