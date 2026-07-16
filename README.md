@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 87
+Total de questoes resolvidas: 88
 
 ### Easy
 
@@ -394,6 +394,11 @@ Total de questoes resolvidas: 87
   - Resolvido em: 17:22 - 08/06/26
 
 ### Hard
+
+- [#132 Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)
+  - Question ID: 132
+  - Arquivo: `problems/hard/132_palindrome-partitioning-ii.py`
+  - Resolvido em: 12:00 - 16/07/26
 
 - [#403 Frog Jump](https://leetcode.com/problems/frog-jump/)
   - Question ID: 403
