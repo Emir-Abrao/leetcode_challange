@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 88
+Total de questoes resolvidas: 89
 
 ### Easy
 
@@ -394,6 +394,11 @@ Total de questoes resolvidas: 88
   - Resolvido em: 17:22 - 08/06/26
 
 ### Hard
+
+- [#327 Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/)
+  - Question ID: 327
+  - Arquivo: `problems/hard/327_count-of-range-sum.py`
+  - Resolvido em: 21:00 - 16/07/26
 
 - [#132 Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)
   - Question ID: 132
