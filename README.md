@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 93
+Total de questoes resolvidas: 94
 
 ### Easy
 
@@ -122,6 +122,11 @@ Total de questoes resolvidas: 93
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#449 Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/)
+  - Question ID: 449
+  - Arquivo: `problems/medium/449_serialize-and-deserialize-bst.py`
+  - Resolvido em: 18:31 - 17/07/26
 
 - [#236 Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
   - Question ID: 236
