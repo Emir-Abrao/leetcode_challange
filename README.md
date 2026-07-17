@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 91
+Total de questoes resolvidas: 92
 
 ### Easy
 
@@ -404,6 +404,11 @@ Total de questoes resolvidas: 91
   - Resolvido em: 17:22 - 08/06/26
 
 ### Hard
+
+- [#458 Poor Pigs](https://leetcode.com/problems/poor-pigs/)
+  - Question ID: 458
+  - Arquivo: `problems/hard/458_poor-pigs.py`
+  - Resolvido em: 14:03 - 17/07/26
 
 - [#327 Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/)
   - Question ID: 327
