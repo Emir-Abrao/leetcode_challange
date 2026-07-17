@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 90
+Total de questoes resolvidas: 91
 
 ### Easy
 
@@ -117,6 +117,11 @@ Total de questoes resolvidas: 90
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#236 Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+  - Question ID: 236
+  - Arquivo: `problems/medium/236_lowest-common-ancestor-of-a-binary-tree.py`
+  - Resolvido em: 13:01 - 17/07/26
 
 - [#130 Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)
   - Question ID: 130
