@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 92
+Total de questoes resolvidas: 93
 
 ### Easy
+
+- [#225 Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
+  - Question ID: 225
+  - Arquivo: `problems/easy/225_implement-stack-using-queues.py`
+  - Resolvido em: 18:00 - 17/07/26
 
 - [#349 Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
   - Question ID: 349
