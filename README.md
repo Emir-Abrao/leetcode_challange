@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 94
+Total de questoes resolvidas: 95
 
 ### Easy
 
@@ -122,6 +122,11 @@ Total de questoes resolvidas: 94
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#416 Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
+  - Question ID: 416
+  - Arquivo: `problems/medium/416_partition-equal-subset-sum.py`
+  - Resolvido em: 16:10 - 18/07/26
 
 - [#449 Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/)
   - Question ID: 449
