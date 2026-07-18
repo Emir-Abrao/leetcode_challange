@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 97
+Total de questoes resolvidas: 98
 
 ### Easy
+
+- [#234 Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+  - Question ID: 234
+  - Arquivo: `problems/easy/234_palindrome-linked-list.py`
+  - Resolvido em: 19:01 - 18/07/26
 
 - [#225 Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
   - Question ID: 225
