@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 95
+Total de questoes resolvidas: 96
 
 ### Easy
 
@@ -122,6 +122,11 @@ Total de questoes resolvidas: 95
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#372 Super Pow](https://leetcode.com/problems/super-pow/)
+  - Question ID: 372
+  - Arquivo: `problems/medium/372_super-pow.py`
+  - Resolvido em: 16:32 - 18/07/26
 
 - [#416 Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
   - Question ID: 416
