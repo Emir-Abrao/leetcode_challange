@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 96
+Total de questoes resolvidas: 97
 
 ### Easy
 
@@ -122,6 +122,11 @@ Total de questoes resolvidas: 96
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#172 Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)
+  - Question ID: 172
+  - Arquivo: `problems/medium/172_factorial-trailing-zeroes.py`
+  - Resolvido em: 18:00 - 18/07/26
 
 - [#372 Super Pow](https://leetcode.com/problems/super-pow/)
   - Question ID: 372
