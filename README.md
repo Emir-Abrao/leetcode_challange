@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 99
+Total de questoes resolvidas: 100
 
 ### Easy
 
@@ -127,6 +127,11 @@ Total de questoes resolvidas: 99
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#397 Integer Replacement](https://leetcode.com/problems/integer-replacement/)
+  - Question ID: 397
+  - Arquivo: `problems/medium/397_integer-replacement.py`
+  - Resolvido em: 16:01 - 19/07/26
 
 - [#150 Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
   - Question ID: 150
