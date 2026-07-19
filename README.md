@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 98
+Total de questoes resolvidas: 99
 
 ### Easy
 
@@ -127,6 +127,11 @@ Total de questoes resolvidas: 98
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#150 Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
+  - Question ID: 150
+  - Arquivo: `problems/medium/150_evaluate-reverse-polish-notation.py`
+  - Resolvido em: 12:20 - 19/07/26
 
 - [#172 Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)
   - Question ID: 172
