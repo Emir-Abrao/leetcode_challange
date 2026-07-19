@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 100
+Total de questoes resolvidas: 101
 
 ### Easy
 
@@ -127,6 +127,11 @@ Total de questoes resolvidas: 100
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#380 Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
+  - Question ID: 380
+  - Arquivo: `problems/medium/380_insert-delete-getrandom-o1.py`
+  - Resolvido em: 18:04 - 19/07/26
 
 - [#397 Integer Replacement](https://leetcode.com/problems/integer-replacement/)
   - Question ID: 397
