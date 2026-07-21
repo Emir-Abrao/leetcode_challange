@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 102
+Total de questoes resolvidas: 103
 
 ### Easy
 
@@ -127,6 +127,11 @@ Total de questoes resolvidas: 102
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#165 Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)
+  - Question ID: 165
+  - Arquivo: `problems/medium/165_compare-version-numbers.py`
+  - Resolvido em: 13:30 - 21/07/26
 
 - [#63 Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
   - Question ID: 63
