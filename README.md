@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 103
+Total de questoes resolvidas: 104
 
 ### Easy
 
@@ -127,6 +127,11 @@ Total de questoes resolvidas: 103
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#388 Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/)
+  - Question ID: 388
+  - Arquivo: `problems/medium/388_longest-absolute-file-path.py`
+  - Resolvido em: 19:00 - 21/07/26
 
 - [#165 Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)
   - Question ID: 165
