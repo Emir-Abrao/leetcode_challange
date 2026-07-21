@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 104
+Total de questoes resolvidas: 105
 
 ### Easy
 
@@ -464,6 +464,11 @@ Total de questoes resolvidas: 104
   - Resolvido em: 17:22 - 08/06/26
 
 ### Hard
+
+- [#432 All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/)
+  - Question ID: 432
+  - Arquivo: `problems/hard/432_all-oone-data-structure.py`
+  - Resolvido em: 22:01 - 21/07/26
 
 - [#458 Poor Pigs](https://leetcode.com/problems/poor-pigs/)
   - Question ID: 458
