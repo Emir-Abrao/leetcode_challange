@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 101
+Total de questoes resolvidas: 102
 
 ### Easy
 
@@ -127,6 +127,11 @@ Total de questoes resolvidas: 101
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#63 Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
+  - Question ID: 63
+  - Arquivo: `problems/medium/63_unique-paths-ii.py`
+  - Resolvido em: 13:00 - 21/07/26
 
 - [#380 Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
   - Question ID: 380
