@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 107
+Total de questoes resolvidas: 108
 
 ### Easy
 
@@ -132,6 +132,11 @@ Total de questoes resolvidas: 107
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#137 Single Number II](https://leetcode.com/problems/single-number-ii/)
+  - Question ID: 137
+  - Arquivo: `problems/medium/137_single-number-ii.py`
+  - Resolvido em: 17:03 - 22/07/26
 
 - [#388 Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/)
   - Question ID: 388
