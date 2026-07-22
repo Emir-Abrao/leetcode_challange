@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 106
+Total de questoes resolvidas: 107
 
 ### Easy
 
@@ -469,6 +469,11 @@ Total de questoes resolvidas: 106
   - Resolvido em: 17:22 - 08/06/26
 
 ### Hard
+
+- [#336 Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)
+  - Question ID: 336
+  - Arquivo: `problems/hard/336_palindrome-pairs.py`
+  - Resolvido em: 15:00 - 22/07/26
 
 - [#432 All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/)
   - Question ID: 432
