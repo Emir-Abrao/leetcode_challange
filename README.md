@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 105
+Total de questoes resolvidas: 106
 
 ### Easy
+
+- [#104 Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+  - Question ID: 104
+  - Arquivo: `problems/easy/104_maximum-depth-of-binary-tree.py`
+  - Resolvido em: 11:01 - 22/07/26
 
 - [#234 Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
   - Question ID: 234
