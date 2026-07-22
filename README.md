@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 108
+Total de questoes resolvidas: 109
 
 ### Easy
+
+- [#495 Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)
+  - Question ID: 495
+  - Arquivo: `problems/easy/495_teemo-attacking.py`
+  - Resolvido em: 22:01 - 22/07/26
 
 - [#104 Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
   - Question ID: 104
