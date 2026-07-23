@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 110
+Total de questoes resolvidas: 111
 
 ### Easy
 
@@ -484,6 +484,11 @@ Total de questoes resolvidas: 110
   - Resolvido em: 17:22 - 08/06/26
 
 ### Hard
+
+- [#466 Count The Repetitions](https://leetcode.com/problems/count-the-repetitions/)
+  - Question ID: 466
+  - Arquivo: `problems/hard/466_count-the-repetitions.py`
+  - Resolvido em: 12:31 - 23/07/26
 
 - [#336 Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)
   - Question ID: 336
