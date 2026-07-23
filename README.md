@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 112
+Total de questoes resolvidas: 113
 
 ### Easy
+
+- [#476 Number Complement](https://leetcode.com/problems/number-complement/)
+  - Question ID: 476
+  - Arquivo: `problems/easy/476_number-complement.py`
+  - Resolvido em: 22:33 - 23/07/26
 
 - [#495 Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)
   - Question ID: 495
