@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 109
+Total de questoes resolvidas: 110
 
 ### Easy
 
@@ -137,6 +137,11 @@ Total de questoes resolvidas: 109
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#316 Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)
+  - Question ID: 316
+  - Arquivo: `problems/medium/316_remove-duplicate-letters.py`
+  - Resolvido em: 12:03 - 23/07/26
 
 - [#137 Single Number II](https://leetcode.com/problems/single-number-ii/)
   - Question ID: 137
