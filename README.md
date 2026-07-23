@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 111
+Total de questoes resolvidas: 112
 
 ### Easy
 
@@ -137,6 +137,11 @@ Total de questoes resolvidas: 111
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#399 Evaluate Division](https://leetcode.com/problems/evaluate-division/)
+  - Question ID: 399
+  - Arquivo: `problems/medium/399_evaluate-division.py`
+  - Resolvido em: 21:03 - 23/07/26
 
 - [#316 Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)
   - Question ID: 316
