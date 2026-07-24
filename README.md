@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 115
+Total de questoes resolvidas: 116
 
 ### Easy
+
+- [#338 Counting Bits](https://leetcode.com/problems/counting-bits/)
+  - Question ID: 338
+  - Arquivo: `problems/easy/338_counting-bits.py`
+  - Resolvido em: 18:00 - 24/07/26
 
 - [#476 Number Complement](https://leetcode.com/problems/number-complement/)
   - Question ID: 476
