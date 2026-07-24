@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 114
+Total de questoes resolvidas: 115
 
 ### Easy
 
@@ -494,6 +494,11 @@ Total de questoes resolvidas: 114
   - Resolvido em: 17:22 - 08/06/26
 
 ### Hard
+
+- [#440 K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/)
+  - Question ID: 440
+  - Arquivo: `problems/hard/440_k-th-smallest-in-lexicographical-order.py`
+  - Resolvido em: 14:03 - 24/07/26
 
 - [#332 Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)
   - Question ID: 332
