@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 113
+Total de questoes resolvidas: 114
 
 ### Easy
 
@@ -494,6 +494,11 @@ Total de questoes resolvidas: 113
   - Resolvido em: 17:22 - 08/06/26
 
 ### Hard
+
+- [#332 Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)
+  - Question ID: 332
+  - Arquivo: `problems/hard/332_reconstruct-itinerary.py`
+  - Resolvido em: 13:00 - 24/07/26
 
 - [#466 Count The Repetitions](https://leetcode.com/problems/count-the-repetitions/)
   - Question ID: 466
