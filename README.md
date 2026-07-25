@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 120
+Total de questoes resolvidas: 121
 
 ### Easy
+
+- [#496 Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
+  - Question ID: 496
+  - Arquivo: `problems/easy/496_next-greater-element-i.py`
+  - Resolvido em: 19:01 - 25/07/26
 
 - [#338 Counting Bits](https://leetcode.com/problems/counting-bits/)
   - Question ID: 338
