@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 118
+Total de questoes resolvidas: 119
 
 ### Easy
 
@@ -147,6 +147,11 @@ Total de questoes resolvidas: 118
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#237 Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
+  - Question ID: 237
+  - Arquivo: `problems/medium/237_delete-node-in-a-linked-list.py`
+  - Resolvido em: 16:32 - 25/07/26
 
 - [#914 Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/)
   - Question ID: 914
