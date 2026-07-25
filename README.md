@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 119
+Total de questoes resolvidas: 120
 
 ### Easy
 
@@ -147,6 +147,11 @@ Total de questoes resolvidas: 119
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#117 Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
+  - Question ID: 117
+  - Arquivo: `problems/medium/117_populating-next-right-pointers-in-each-node-ii.py`
+  - Resolvido em: 18:04 - 25/07/26
 
 - [#237 Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
   - Question ID: 237
