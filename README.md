@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 117
+Total de questoes resolvidas: 118
 
 ### Easy
 
@@ -147,6 +147,11 @@ Total de questoes resolvidas: 117
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#914 Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/)
+  - Question ID: 914
+  - Arquivo: `problems/medium/497_random-point-in-non-overlapping-rectangles.py`
+  - Resolvido em: 16:10 - 25/07/26
 
 - [#452 Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
   - Question ID: 452
