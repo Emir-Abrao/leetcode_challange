@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 121
+Total de questoes resolvidas: 122
 
 ### Easy
+
+- [#350 Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
+  - Question ID: 350
+  - Arquivo: `problems/easy/350_intersection-of-two-arrays-ii.py`
+  - Resolvido em: 12:27 - 26/07/26
 
 - [#496 Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
   - Question ID: 496
