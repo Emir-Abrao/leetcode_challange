@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 123
+Total de questoes resolvidas: 124
 
 ### Easy
+
+- [#141 Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+  - Question ID: 141
+  - Arquivo: `problems/easy/141_linked-list-cycle.py`
+  - Resolvido em: 18:01 - 26/07/26
 
 - [#350 Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
   - Question ID: 350
