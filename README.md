@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 122
+Total de questoes resolvidas: 123
 
 ### Easy
 
@@ -157,6 +157,11 @@ Total de questoes resolvidas: 122
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#199 Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
+  - Question ID: 199
+  - Arquivo: `problems/medium/199_binary-tree-right-side-view.py`
+  - Resolvido em: 16:01 - 26/07/26
 
 - [#117 Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
   - Question ID: 117
