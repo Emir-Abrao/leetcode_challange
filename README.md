@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 124
+Total de questoes resolvidas: 125
 
 ### Easy
+
+- [#118 Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
+  - Question ID: 118
+  - Arquivo: `problems/easy/118_pascals-triangle.py`
+  - Resolvido em: 13:04 - 28/07/26
 
 - [#141 Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
   - Question ID: 141
