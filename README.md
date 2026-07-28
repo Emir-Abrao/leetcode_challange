@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 127
+Total de questoes resolvidas: 128
 
 ### Easy
 
@@ -167,6 +167,11 @@ Total de questoes resolvidas: 127
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#90 Subsets II](https://leetcode.com/problems/subsets-ii/)
+  - Question ID: 90
+  - Arquivo: `problems/medium/90_subsets-ii.py`
+  - Resolvido em: 22:01 - 28/07/26
 
 - [#113 Path Sum II](https://leetcode.com/problems/path-sum-ii/)
   - Question ID: 113
