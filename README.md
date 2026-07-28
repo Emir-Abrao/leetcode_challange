@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 125
+Total de questoes resolvidas: 126
 
 ### Easy
 
@@ -167,6 +167,11 @@ Total de questoes resolvidas: 125
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#113 Path Sum II](https://leetcode.com/problems/path-sum-ii/)
+  - Question ID: 113
+  - Arquivo: `problems/medium/113_path-sum-ii.py`
+  - Resolvido em: 13:30 - 28/07/26
 
 - [#199 Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
   - Question ID: 199
