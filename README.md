@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 126
+Total de questoes resolvidas: 127
 
 ### Easy
 
@@ -549,6 +549,11 @@ Total de questoes resolvidas: 126
   - Resolvido em: 17:22 - 08/06/26
 
 ### Hard
+
+- [#460 LFU Cache](https://leetcode.com/problems/lfu-cache/)
+  - Question ID: 460
+  - Arquivo: `problems/hard/460_lfu-cache.py`
+  - Resolvido em: 19:03 - 28/07/26
 
 - [#440 K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/)
   - Question ID: 440
