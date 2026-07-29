@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 129
+Total de questoes resolvidas: 130
 
 ### Easy
 
@@ -167,6 +167,11 @@ Total de questoes resolvidas: 129
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#445 Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)
+  - Question ID: 445
+  - Arquivo: `problems/medium/445_add-two-numbers-ii.py`
+  - Resolvido em: 15:00 - 29/07/26
 
 - [#334 Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)
   - Question ID: 334
