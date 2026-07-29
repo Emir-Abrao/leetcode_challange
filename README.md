@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 130
+Total de questoes resolvidas: 131
 
 ### Easy
+
+- [#463 Island Perimeter](https://leetcode.com/problems/island-perimeter/)
+  - Question ID: 463
+  - Arquivo: `problems/easy/463_island-perimeter.py`
+  - Resolvido em: 17:00 - 29/07/26
 
 - [#118 Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
   - Question ID: 118
