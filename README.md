@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 131
+Total de questoes resolvidas: 132
 
 ### Easy
+
+- [#121 Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+  - Question ID: 121
+  - Arquivo: `problems/easy/121_best-time-to-buy-and-sell-stock.py`
+  - Resolvido em: 22:01 - 29/07/26
 
 - [#463 Island Perimeter](https://leetcode.com/problems/island-perimeter/)
   - Question ID: 463
