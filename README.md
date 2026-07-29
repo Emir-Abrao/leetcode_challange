@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 128
+Total de questoes resolvidas: 129
 
 ### Easy
 
@@ -167,6 +167,11 @@ Total de questoes resolvidas: 128
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#334 Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)
+  - Question ID: 334
+  - Arquivo: `problems/medium/334_increasing-triplet-subsequence.py`
+  - Resolvido em: 11:01 - 29/07/26
 
 - [#90 Subsets II](https://leetcode.com/problems/subsets-ii/)
   - Question ID: 90
