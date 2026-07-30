@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 132
+Total de questoes resolvidas: 133
 
 ### Easy
 
@@ -177,6 +177,11 @@ Total de questoes resolvidas: 132
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#304 Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)
+  - Question ID: 304
+  - Arquivo: `problems/medium/304_range-sum-query-2d-immutable.py`
+  - Resolvido em: 12:07 - 30/07/26
 
 - [#445 Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)
   - Question ID: 445
