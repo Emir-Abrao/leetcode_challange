@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 134
+Total de questoes resolvidas: 135
 
 ### Easy
+
+- [#345 Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
+  - Question ID: 345
+  - Arquivo: `problems/easy/345_reverse-vowels-of-a-string.py`
+  - Resolvido em: 22:33 - 30/07/26
 
 - [#121 Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
   - Question ID: 121
