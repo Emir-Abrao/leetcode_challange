@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 133
+Total de questoes resolvidas: 134
 
 ### Easy
 
@@ -579,6 +579,11 @@ Total de questoes resolvidas: 133
   - Resolvido em: 17:22 - 08/06/26
 
 ### Hard
+
+- [#295 Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
+  - Question ID: 295
+  - Arquivo: `problems/hard/295_find-median-from-data-stream.py`
+  - Resolvido em: 21:00 - 30/07/26
 
 - [#460 LFU Cache](https://leetcode.com/problems/lfu-cache/)
   - Question ID: 460
