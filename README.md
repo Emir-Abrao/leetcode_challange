@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 135
+Total de questoes resolvidas: 136
 
 ### Easy
+
+- [#461 Hamming Distance](https://leetcode.com/problems/hamming-distance/)
+  - Question ID: 461
+  - Arquivo: `problems/easy/461_hamming-distance.py`
+  - Resolvido em: 13:01 - 31/07/26
 
 - [#345 Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
   - Question ID: 345
