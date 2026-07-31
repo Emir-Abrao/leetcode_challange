@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 137
+Total de questoes resolvidas: 138
 
 ### Easy
 
@@ -187,6 +187,11 @@ Total de questoes resolvidas: 137
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#443 String Compression](https://leetcode.com/problems/string-compression/)
+  - Question ID: 443
+  - Arquivo: `problems/medium/443_string-compression.py`
+  - Resolvido em: 18:00 - 31/07/26
 
 - [#116 Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
   - Question ID: 116
