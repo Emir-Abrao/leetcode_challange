@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 138
+Total de questoes resolvidas: 139
 
 ### Easy
 
@@ -187,6 +187,11 @@ Total de questoes resolvidas: 138
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#34 Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+  - Question ID: 34
+  - Arquivo: `problems/medium/34_find-first-and-last-position-of-element-in-sorted-array.py`
+  - Resolvido em: 18:31 - 31/07/26
 
 - [#443 String Compression](https://leetcode.com/problems/string-compression/)
   - Question ID: 443
