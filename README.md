@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 136
+Total de questoes resolvidas: 137
 
 ### Easy
 
@@ -187,6 +187,11 @@ Total de questoes resolvidas: 136
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#116 Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
+  - Question ID: 116
+  - Arquivo: `problems/medium/116_populating-next-right-pointers-in-each-node.py`
+  - Resolvido em: 14:00 - 31/07/26
 
 - [#304 Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)
   - Question ID: 304
