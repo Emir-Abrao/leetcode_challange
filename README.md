@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 140
+Total de questoes resolvidas: 141
 
 ### Easy
 
@@ -187,6 +187,11 @@ Total de questoes resolvidas: 140
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#40 Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)
+  - Question ID: 40
+  - Arquivo: `problems/medium/40_combination-sum-ii.py`
+  - Resolvido em: 16:32 - 01/08/26
 
 - [#215 Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
   - Question ID: 215
