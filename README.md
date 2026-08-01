@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 139
+Total de questoes resolvidas: 140
 
 ### Easy
 
@@ -187,6 +187,11 @@ Total de questoes resolvidas: 139
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#215 Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+  - Question ID: 215
+  - Arquivo: `problems/medium/215_kth-largest-element-in-an-array.py`
+  - Resolvido em: 16:10 - 01/08/26
 
 - [#34 Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
   - Question ID: 34
