@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 141
+Total de questoes resolvidas: 142
 
 ### Easy
 
@@ -187,6 +187,11 @@ Total de questoes resolvidas: 141
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#86 Partition List](https://leetcode.com/problems/partition-list/)
+  - Question ID: 86
+  - Arquivo: `problems/medium/86_partition-list.py`
+  - Resolvido em: 18:00 - 01/08/26
 
 - [#40 Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)
   - Question ID: 40
