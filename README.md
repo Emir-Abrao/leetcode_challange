@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 142
+Total de questoes resolvidas: 143
 
 ### Easy
 
@@ -619,6 +619,11 @@ Total de questoes resolvidas: 142
   - Resolvido em: 17:22 - 08/06/26
 
 ### Hard
+
+- [#76 Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+  - Question ID: 76
+  - Arquivo: `problems/hard/76_minimum-window-substring.py`
+  - Resolvido em: 19:01 - 01/08/26
 
 - [#295 Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
   - Question ID: 295
