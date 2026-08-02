@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 143
+Total de questoes resolvidas: 144
 
 ### Easy
 
@@ -187,6 +187,11 @@ Total de questoes resolvidas: 143
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#343 Integer Break](https://leetcode.com/problems/integer-break/)
+  - Question ID: 343
+  - Arquivo: `problems/medium/343_integer-break.py`
+  - Resolvido em: 12:20 - 02/08/26
 
 - [#86 Partition List](https://leetcode.com/problems/partition-list/)
   - Question ID: 86
