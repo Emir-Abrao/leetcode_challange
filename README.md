@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 144
+Total de questoes resolvidas: 145
 
 ### Easy
 
@@ -187,6 +187,11 @@ Total de questoes resolvidas: 144
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#451 Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
+  - Question ID: 451
+  - Arquivo: `problems/medium/451_sort-characters-by-frequency.py`
+  - Resolvido em: 16:04 - 02/08/26
 
 - [#343 Integer Break](https://leetcode.com/problems/integer-break/)
   - Question ID: 343
