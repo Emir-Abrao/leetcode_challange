@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 145
+Total de questoes resolvidas: 146
 
 ### Easy
 
@@ -187,6 +187,11 @@ Total de questoes resolvidas: 145
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#143 Reorder List](https://leetcode.com/problems/reorder-list/)
+  - Question ID: 143
+  - Arquivo: `problems/medium/143_reorder-list.py`
+  - Resolvido em: 18:04 - 02/08/26
 
 - [#451 Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
   - Question ID: 451
