@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 146
+Total de questoes resolvidas: 147
 
 ### Easy
 
@@ -634,6 +634,11 @@ Total de questoes resolvidas: 146
   - Resolvido em: 17:22 - 08/06/26
 
 ### Hard
+
+- [#126 Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)
+  - Question ID: 126
+  - Arquivo: `problems/hard/126_word-ladder-ii.py`
+  - Resolvido em: 13:04 - 04/08/26
 
 - [#76 Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
   - Question ID: 76
