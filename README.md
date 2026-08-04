@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 149
+Total de questoes resolvidas: 150
 
 ### Easy
+
+- [#412 Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
+  - Question ID: 412
+  - Arquivo: `problems/easy/412_fizz-buzz.py`
+  - Resolvido em: 22:09 - 04/08/26
 
 - [#461 Hamming Distance](https://leetcode.com/problems/hamming-distance/)
   - Question ID: 461
