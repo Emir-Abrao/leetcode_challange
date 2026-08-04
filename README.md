@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 148
+Total de questoes resolvidas: 149
 
 ### Easy
 
@@ -187,6 +187,11 @@ Total de questoes resolvidas: 148
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#50 Pow(x, n)](https://leetcode.com/problems/powx-n/)
+  - Question ID: 50
+  - Arquivo: `problems/medium/50_powx-n.py`
+  - Resolvido em: 19:00 - 04/08/26
 
 - [#221 Maximal Square](https://leetcode.com/problems/maximal-square/)
   - Question ID: 221
