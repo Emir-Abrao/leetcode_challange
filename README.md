@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 147
+Total de questoes resolvidas: 148
 
 ### Easy
 
@@ -187,6 +187,11 @@ Total de questoes resolvidas: 147
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#221 Maximal Square](https://leetcode.com/problems/maximal-square/)
+  - Question ID: 221
+  - Arquivo: `problems/medium/221_maximal-square.py`
+  - Resolvido em: 13:30 - 04/08/26
 
 - [#143 Reorder List](https://leetcode.com/problems/reorder-list/)
   - Question ID: 143
