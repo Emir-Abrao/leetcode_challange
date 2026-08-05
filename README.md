@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 152
+Total de questoes resolvidas: 153
 
 ### Easy
 
@@ -654,6 +654,11 @@ Total de questoes resolvidas: 152
   - Resolvido em: 17:22 - 08/06/26
 
 ### Hard
+
+- [#4 Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+  - Question ID: 4
+  - Arquivo: `problems/hard/4_median-of-two-sorted-arrays.py`
+  - Resolvido em: 17:00 - 05/08/26
 
 - [#220 Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)
   - Question ID: 220
