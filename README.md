@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 151
+Total de questoes resolvidas: 152
 
 ### Easy
 
@@ -654,6 +654,11 @@ Total de questoes resolvidas: 151
   - Resolvido em: 17:22 - 08/06/26
 
 ### Hard
+
+- [#220 Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)
+  - Question ID: 220
+  - Arquivo: `problems/hard/220_contains-duplicate-iii.py`
+  - Resolvido em: 15:08 - 05/08/26
 
 - [#126 Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)
   - Question ID: 126
