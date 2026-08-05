@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 150
+Total de questoes resolvidas: 151
 
 ### Easy
+
+- [#231 Power of Two](https://leetcode.com/problems/power-of-two/)
+  - Question ID: 231
+  - Arquivo: `problems/easy/231_power-of-two.py`
+  - Resolvido em: 11:01 - 05/08/26
 
 - [#412 Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
   - Question ID: 412
