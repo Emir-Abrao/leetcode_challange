@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 153
+Total de questoes resolvidas: 154
 
 ### Easy
+
+- [#69 Sqrt(x)](https://leetcode.com/problems/sqrtx/)
+  - Question ID: 69
+  - Arquivo: `problems/easy/69_sqrtx.py`
+  - Resolvido em: 22:01 - 05/08/26
 
 - [#231 Power of Two](https://leetcode.com/problems/power-of-two/)
   - Question ID: 231
