@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 156
+Total de questoes resolvidas: 157
 
 ### Easy
 
@@ -202,6 +202,11 @@ Total de questoes resolvidas: 156
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#491 Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/)
+  - Question ID: 491
+  - Arquivo: `problems/medium/491_non-decreasing-subsequences.py`
+  - Resolvido em: 21:00 - 06/08/26
 
 - [#419 Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/)
   - Question ID: 419
