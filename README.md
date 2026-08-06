@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 154
+Total de questoes resolvidas: 155
 
 ### Easy
 
@@ -659,6 +659,11 @@ Total de questoes resolvidas: 154
   - Resolvido em: 17:22 - 08/06/26
 
 ### Hard
+
+- [#115 Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)
+  - Question ID: 115
+  - Arquivo: `problems/hard/115_distinct-subsequences.py`
+  - Resolvido em: 12:00 - 06/08/26
 
 - [#4 Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
   - Question ID: 4
