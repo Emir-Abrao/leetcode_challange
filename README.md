@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 155
+Total de questoes resolvidas: 156
 
 ### Easy
 
@@ -202,6 +202,11 @@ Total de questoes resolvidas: 155
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#419 Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/)
+  - Question ID: 419
+  - Arquivo: `problems/medium/419_battleships-in-a-board.py`
+  - Resolvido em: 12:31 - 06/08/26
 
 - [#50 Pow(x, n)](https://leetcode.com/problems/powx-n/)
   - Question ID: 50
