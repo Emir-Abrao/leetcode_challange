@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 157
+Total de questoes resolvidas: 158
 
 ### Easy
+
+- [#434 Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)
+  - Question ID: 434
+  - Arquivo: `problems/easy/434_number-of-segments-in-a-string.py`
+  - Resolvido em: 22:30 - 06/08/26
 
 - [#69 Sqrt(x)](https://leetcode.com/problems/sqrtx/)
   - Question ID: 69
