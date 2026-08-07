@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 159
+Total de questoes resolvidas: 160
 
 ### Easy
+
+- [#485 Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
+  - Question ID: 485
+  - Arquivo: `problems/easy/485_max-consecutive-ones.py`
+  - Resolvido em: 14:00 - 07/08/26
 
 - [#434 Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)
   - Question ID: 434
