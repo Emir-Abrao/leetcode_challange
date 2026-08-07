@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 158
+Total de questoes resolvidas: 159
 
 ### Easy
 
@@ -207,6 +207,11 @@ Total de questoes resolvidas: 158
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#47 Permutations II](https://leetcode.com/problems/permutations-ii/)
+  - Question ID: 47
+  - Arquivo: `problems/medium/47_permutations-ii.py`
+  - Resolvido em: 13:05 - 07/08/26
 
 - [#491 Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/)
   - Question ID: 491
