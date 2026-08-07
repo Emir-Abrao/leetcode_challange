@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 161
+Total de questoes resolvidas: 162
 
 ### Easy
 
@@ -217,6 +217,11 @@ Total de questoes resolvidas: 161
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#260 Single Number III](https://leetcode.com/problems/single-number-iii/)
+  - Question ID: 260
+  - Arquivo: `problems/medium/260_single-number-iii.py`
+  - Resolvido em: 18:31 - 07/08/26
 
 - [#47 Permutations II](https://leetcode.com/problems/permutations-ii/)
   - Question ID: 47
