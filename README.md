@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 160
+Total de questoes resolvidas: 161
 
 ### Easy
+
+- [#409 Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
+  - Question ID: 409
+  - Arquivo: `problems/easy/409_longest-palindrome.py`
+  - Resolvido em: 18:03 - 07/08/26
 
 - [#485 Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
   - Question ID: 485
