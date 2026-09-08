@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 163
+Total de questoes resolvidas: 164
 
 ### Easy
 
@@ -217,6 +217,11 @@ Total de questoes resolvidas: 163
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#81 Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
+  - Question ID: 81
+  - Arquivo: `problems/medium/81_search-in-rotated-sorted-array-ii.py`
+  - Resolvido em: 22:01 - 08/09/26
 
 - [#122 Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
   - Question ID: 122
