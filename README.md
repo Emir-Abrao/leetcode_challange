@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 166
+Total de questoes resolvidas: 167
 
 ### Easy
 
@@ -227,6 +227,11 @@ Total de questoes resolvidas: 166
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#299 Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)
+  - Question ID: 299
+  - Arquivo: `problems/medium/299_bulls-and-cows.py`
+  - Resolvido em: 17:06 - 09/09/26
 
 - [#81 Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
   - Question ID: 81
