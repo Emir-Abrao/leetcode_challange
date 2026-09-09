@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 164
+Total de questoes resolvidas: 165
 
 ### Easy
+
+- [#206 Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+  - Question ID: 206
+  - Arquivo: `problems/easy/206_reverse-linked-list.py`
+  - Resolvido em: 11:02 - 09/09/26
 
 - [#409 Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
   - Question ID: 409
