@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 165
+Total de questoes resolvidas: 166
 
 ### Easy
+
+- [#88 Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+  - Question ID: 88
+  - Arquivo: `problems/easy/88_merge-sorted-array.py`
+  - Resolvido em: 15:01 - 09/09/26
 
 - [#206 Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
   - Question ID: 206
