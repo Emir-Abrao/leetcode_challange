@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 169
+Total de questoes resolvidas: 170
 
 ### Easy
 
@@ -237,6 +237,11 @@ Total de questoes resolvidas: 169
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#486 Predict the Winner](https://leetcode.com/problems/predict-the-winner/)
+  - Question ID: 486
+  - Arquivo: `problems/medium/486_predict-the-winner.py`
+  - Resolvido em: 12:31 - 10/09/26
 
 - [#299 Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)
   - Question ID: 299
