@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 171
+Total de questoes resolvidas: 172
 
 ### Easy
 
@@ -237,6 +237,11 @@ Total de questoes resolvidas: 171
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#384 Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)
+  - Question ID: 384
+  - Arquivo: `problems/medium/384_shuffle-an-array.py`
+  - Resolvido em: 22:32 - 10/09/26
 
 - [#486 Predict the Winner](https://leetcode.com/problems/predict-the-winner/)
   - Question ID: 486
