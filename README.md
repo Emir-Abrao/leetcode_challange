@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 168
+Total de questoes resolvidas: 169
 
 ### Easy
+
+- [#100 Same Tree](https://leetcode.com/problems/same-tree/)
+  - Question ID: 100
+  - Arquivo: `problems/easy/100_same-tree.py`
+  - Resolvido em: 12:27 - 10/09/26
 
 - [#112 Path Sum](https://leetcode.com/problems/path-sum/)
   - Question ID: 112
