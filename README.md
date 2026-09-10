@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 170
+Total de questoes resolvidas: 171
 
 ### Easy
 
@@ -734,6 +734,11 @@ Total de questoes resolvidas: 170
   - Resolvido em: 17:22 - 08/06/26
 
 ### Hard
+
+- [#420 Strong Password Checker](https://leetcode.com/problems/strong-password-checker/)
+  - Question ID: 420
+  - Arquivo: `problems/hard/420_strong-password-checker.py`
+  - Resolvido em: 21:14 - 10/09/26
 
 - [#115 Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)
   - Question ID: 115
