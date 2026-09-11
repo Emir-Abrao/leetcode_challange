@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 175
+Total de questoes resolvidas: 176
 
 ### Easy
 
@@ -242,6 +242,11 @@ Total de questoes resolvidas: 175
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#395 Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)
+  - Question ID: 395
+  - Arquivo: `problems/medium/395_longest-substring-with-at-least-k-repeating-characters.py`
+  - Resolvido em: 18:31 - 11/09/26
 
 - [#187 Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)
   - Question ID: 187
