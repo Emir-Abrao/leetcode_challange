@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 173
+Total de questoes resolvidas: 174
 
 ### Easy
 
@@ -237,6 +237,11 @@ Total de questoes resolvidas: 173
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#187 Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)
+  - Question ID: 187
+  - Arquivo: `problems/medium/187_repeated-dna-sequences.py`
+  - Resolvido em: 14:04 - 11/09/26
 
 - [#328 Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
   - Question ID: 328
