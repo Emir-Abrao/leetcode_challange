@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 174
+Total de questoes resolvidas: 175
 
 ### Easy
+
+- [#171 Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
+  - Question ID: 171
+  - Arquivo: `problems/easy/171_excel-sheet-column-number.py`
+  - Resolvido em: 18:04 - 11/09/26
 
 - [#100 Same Tree](https://leetcode.com/problems/same-tree/)
   - Question ID: 100
