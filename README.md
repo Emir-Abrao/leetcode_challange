@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 178
+Total de questoes resolvidas: 179
 
 ### Easy
 
@@ -769,6 +769,11 @@ Total de questoes resolvidas: 178
   - Resolvido em: 17:22 - 08/06/26
 
 ### Hard
+
+- [#87 Scramble String](https://leetcode.com/problems/scramble-string/)
+  - Question ID: 87
+  - Arquivo: `problems/hard/87_scramble-string.py`
+  - Resolvido em: 18:01 - 12/09/26
 
 - [#420 Strong Password Checker](https://leetcode.com/problems/strong-password-checker/)
   - Question ID: 420
