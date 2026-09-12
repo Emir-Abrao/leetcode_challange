@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 179
+Total de questoes resolvidas: 180
 
 ### Easy
+
+- [#193 Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/)
+  - Question ID: 193
+  - Arquivo: `problems/easy/193_valid-phone-numbers.py`
+  - Resolvido em: 19:02 - 12/09/26
 
 - [#171 Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
   - Question ID: 171
