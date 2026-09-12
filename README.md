@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 176
+Total de questoes resolvidas: 177
 
 ### Easy
 
@@ -242,6 +242,11 @@ Total de questoes resolvidas: 176
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#287 Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+  - Question ID: 287
+  - Arquivo: `problems/medium/287_find-the-duplicate-number.py`
+  - Resolvido em: 16:10 - 12/09/26
 
 - [#395 Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)
   - Question ID: 395
