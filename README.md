@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 177
+Total de questoes resolvidas: 178
 
 ### Easy
 
@@ -242,6 +242,11 @@ Total de questoes resolvidas: 177
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#29 Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)
+  - Question ID: 29
+  - Arquivo: `problems/medium/29_divide-two-integers.py`
+  - Resolvido em: 16:35 - 12/09/26
 
 - [#287 Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
   - Question ID: 287
