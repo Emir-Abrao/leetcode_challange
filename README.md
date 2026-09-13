@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 181
+Total de questoes resolvidas: 182
 
 ### Easy
 
@@ -779,6 +779,11 @@ Total de questoes resolvidas: 181
   - Resolvido em: 17:22 - 08/06/26
 
 ### Hard
+
+- [#354 Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)
+  - Question ID: 354
+  - Arquivo: `problems/hard/354_russian-doll-envelopes.py`
+  - Resolvido em: 18:06 - 13/09/26
 
 - [#87 Scramble String](https://leetcode.com/problems/scramble-string/)
   - Question ID: 87
