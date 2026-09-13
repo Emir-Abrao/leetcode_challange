@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 180
+Total de questoes resolvidas: 181
 
 ### Easy
 
@@ -247,6 +247,11 @@ Total de questoes resolvidas: 180
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#275 H-Index II](https://leetcode.com/problems/h-index-ii/)
+  - Question ID: 275
+  - Arquivo: `problems/medium/275_h-index-ii.py`
+  - Resolvido em: 16:07 - 13/09/26
 
 - [#29 Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)
   - Question ID: 29
