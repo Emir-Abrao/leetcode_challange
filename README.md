@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 182
+Total de questoes resolvidas: 183
 
 ### Easy
 
@@ -247,6 +247,11 @@ Total de questoes resolvidas: 182
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#162 Find Peak Element](https://leetcode.com/problems/find-peak-element/)
+  - Question ID: 162
+  - Arquivo: `problems/medium/162_find-peak-element.py`
+  - Resolvido em: 13:00 - 15/09/26
 
 - [#275 H-Index II](https://leetcode.com/problems/h-index-ii/)
   - Question ID: 275
