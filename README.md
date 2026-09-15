@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 185
+Total de questoes resolvidas: 186
 
 ### Easy
 
@@ -247,6 +247,11 @@ Total de questoes resolvidas: 185
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#54 Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+  - Question ID: 54
+  - Arquivo: `problems/medium/54_spiral-matrix.py`
+  - Resolvido em: 22:02 - 15/09/26
 
 - [#413 Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)
   - Question ID: 413
