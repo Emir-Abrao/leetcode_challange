@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 183
+Total de questoes resolvidas: 184
 
 ### Easy
 
@@ -247,6 +247,11 @@ Total de questoes resolvidas: 183
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#31 Next Permutation](https://leetcode.com/problems/next-permutation/)
+  - Question ID: 31
+  - Arquivo: `problems/medium/31_next-permutation.py`
+  - Resolvido em: 13:30 - 15/09/26
 
 - [#162 Find Peak Element](https://leetcode.com/problems/find-peak-element/)
   - Question ID: 162
