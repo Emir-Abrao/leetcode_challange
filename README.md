@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 189
+Total de questoes resolvidas: 190
 
 ### Easy
+
+- [#290 Word Pattern](https://leetcode.com/problems/word-pattern/)
+  - Question ID: 290
+  - Arquivo: `problems/easy/290_word-pattern.py`
+  - Resolvido em: 22:01 - 16/09/26
 
 - [#145 Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
   - Question ID: 145
