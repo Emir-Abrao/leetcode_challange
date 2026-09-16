@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 187
+Total de questoes resolvidas: 188
 
 ### Easy
 
@@ -252,6 +252,11 @@ Total de questoes resolvidas: 187
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#45 Jump Game II](https://leetcode.com/problems/jump-game-ii/)
+  - Question ID: 45
+  - Arquivo: `problems/medium/45_jump-game-ii.py`
+  - Resolvido em: 15:03 - 16/09/26
 
 - [#54 Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
   - Question ID: 54
