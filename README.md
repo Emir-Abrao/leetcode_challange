@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 188
+Total de questoes resolvidas: 189
 
 ### Easy
 
@@ -252,6 +252,11 @@ Total de questoes resolvidas: 188
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#390 Elimination Game](https://leetcode.com/problems/elimination-game/)
+  - Question ID: 390
+  - Arquivo: `problems/medium/390_elimination-game.py`
+  - Resolvido em: 17:01 - 16/09/26
 
 - [#45 Jump Game II](https://leetcode.com/problems/jump-game-ii/)
   - Question ID: 45
