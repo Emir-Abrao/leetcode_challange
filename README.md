@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 192
+Total de questoes resolvidas: 193
 
 ### Easy
 
@@ -824,6 +824,11 @@ Total de questoes resolvidas: 192
   - Resolvido em: 17:22 - 08/06/26
 
 ### Hard
+
+- [#273 Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)
+  - Question ID: 273
+  - Arquivo: `problems/hard/273_integer-to-english-words.py`
+  - Resolvido em: 21:00 - 17/09/26
 
 - [#352 Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)
   - Question ID: 352
