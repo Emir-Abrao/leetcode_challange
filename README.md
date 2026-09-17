@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 191
+Total de questoes resolvidas: 192
 
 ### Easy
 
@@ -824,6 +824,11 @@ Total de questoes resolvidas: 191
   - Resolvido em: 17:22 - 08/06/26
 
 ### Hard
+
+- [#352 Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)
+  - Question ID: 352
+  - Arquivo: `problems/hard/352_data-stream-as-disjoint-intervals.py`
+  - Resolvido em: 12:38 - 17/09/26
 
 - [#354 Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)
   - Question ID: 354
