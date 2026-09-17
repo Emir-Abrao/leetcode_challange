@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 190
+Total de questoes resolvidas: 191
 
 ### Easy
+
+- [#482 License Key Formatting](https://leetcode.com/problems/license-key-formatting/)
+  - Question ID: 482
+  - Arquivo: `problems/easy/482_license-key-formatting.py`
+  - Resolvido em: 12:10 - 17/09/26
 
 - [#290 Word Pattern](https://leetcode.com/problems/word-pattern/)
   - Question ID: 290
