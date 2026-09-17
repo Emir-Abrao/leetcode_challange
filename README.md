@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 193
+Total de questoes resolvidas: 194
 
 ### Easy
 
@@ -262,6 +262,11 @@ Total de questoes resolvidas: 193
   - Resolvido em: 11:01 - 10/06/26
 
 ### Medium
+
+- [#53 Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+  - Question ID: 53
+  - Arquivo: `problems/medium/53_maximum-subarray.py`
+  - Resolvido em: 22:32 - 17/09/26
 
 - [#390 Elimination Game](https://leetcode.com/problems/elimination-game/)
   - Question ID: 390
