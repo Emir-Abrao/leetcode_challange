@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 194
+Total de questoes resolvidas: 195
 
 ### Easy
+
+- [#492 Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)
+  - Question ID: 492
+  - Arquivo: `problems/easy/492_construct-the-rectangle.py`
+  - Resolvido em: 13:02 - 18/09/26
 
 - [#482 License Key Formatting](https://leetcode.com/problems/license-key-formatting/)
   - Question ID: 482
